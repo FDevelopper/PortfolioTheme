@@ -2,7 +2,7 @@
 A simple portfolio theme you can use to your leisure.
 
 # Getting Started
-Simply download the repositary,run the home.html file and you're set.
+Simply download the repository,run the home.html file and you're set.
 the index.php file is simply there to deploy the portfolio on heroku(you trick it that way).
 # Prerequisites
 a simple browser if all you need to get started.
